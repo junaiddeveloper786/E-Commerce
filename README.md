@@ -10,6 +10,11 @@ A fully responsive and modern **E-Commerce Website** built using HTML, CSS, and 
 - 📱 **Mobile-Friendly & Fully Responsive**  
 - 💳 **Secure Payment Gateway Integration (Optional)**  
 
+## 🎬 Best Viewing Experience  
+🔹 For the **best visual experience**, view this website in **full-screen mode** on a **Windows PC**.  
+🔹 Press **F11** to enter or exit full-screen mode.  
+🔹 Works best on modern browsers like **Google Chrome, Edge, or Firefox**. 
+
 ## 🛠 Tech Stack  
 - **HTML5** - Page structure  
 - **CSS3** - Styling & animations  
